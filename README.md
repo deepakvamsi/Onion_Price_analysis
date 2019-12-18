@@ -13,6 +13,8 @@ I tried to give aboslute way to give you the grapical view with simple changes.
 
 [+] python3
 
+[+] imgkit
+
 Simple data anlysis with minimum Libaries.
 plotly is a data visualization libary with easy and simple parameters.
 
