@@ -41,7 +41,7 @@ Jupyter notebook check at:https://jupyter.org/install
   # Kurnool District Price/100Kg 2019
 ![Alt Text](Onion_2019.jpeg)
 
-# Elon On Fire
+# Lets Fry some Onions
 ![Alt Text](https://media.tenor.com/images/dd3e275792457dcf604d103578289003/tenor.gif)
 
 
