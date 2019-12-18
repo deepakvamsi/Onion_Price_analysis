@@ -4,9 +4,13 @@ I tried to give aboslute way to give you the grapical view with simple changes.
 
 ## Prerequistes
 [+] Linux
+
 [+] Jupyter notebook
+
 [+] Plotly
+
 [+] Pandas
+
 [+] python3
 
 Simple data anlysis with minimum Libaries.
