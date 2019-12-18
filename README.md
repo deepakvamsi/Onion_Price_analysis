@@ -20,9 +20,11 @@ plotly is a data visualization libary with easy and simple parameters.
 
 ### Installation Steps
 ```sh
-$apt install python3
-$apt install python3-pip
+$apt-get install python3
+$apt-get install python3-pip
 $pip3 install plotly  pandas
+$pip3 install imgkit
+$apt-get install wkhtmltopdf
 ```
 
 Jupyter notebook check at:https://jupyter.org/install
