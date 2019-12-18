@@ -3,11 +3,11 @@ Onion Price analysis of over time 2012,2017,2016,2019 district  wise.
 I tried to give aboslute way to give you the grapical view with simple changes.
 
 ## Prerequistes
-0.Linux
-1.Jupyter notebook
-2.Plotly
-3.Pandas
-4.python3
+[+] Linux
+[+] Jupyter notebook
+[+] Plotly
+[+] Pandas
+[+] python3
 
 Simple data anlysis with minimum Libaries.
 plotly is a data visualization libary with easy and simple parameters.
