@@ -29,20 +29,24 @@ $apt-get install wkhtmltopdf
 
 Jupyter notebook check at:https://jupyter.org/install
 # Example Images: 
-  # Kurnool District Records 2012
+  # Kurnool District Price/100kg 2012
 ![Alt Text](Onion_2012.jpeg)
 
-  # Kurnool District Records 2016
+  # Kurnool District Price/100kg 2016
 ![Alt Text](Onion_2016.jpeg)
 
-  # Kurnool District Records 2017
+  # Kurnool District Price/100kg 2017
 ![Alt Text](Onion_2017.jpeg)
 
-  # Kurnool District Records 2019
+  # Kurnool District Price/100Kg 2019
 ![Alt Text](Onion_2019.jpeg)
 
-# Hola hola Hola
+# Elon On Fire
 ![Alt Text](https://media.tenor.com/images/dd3e275792457dcf604d103578289003/tenor.gif)
+
 
 #### Note: Data I got is from :https://data.gov.in/catalog/variety-wise-daily-market-prices-data-onion
 Check there for more information. sorry for missing data
+   ## Thanks
+  Student of [TomNomNom](https://github.com/TomNomNom)
+
