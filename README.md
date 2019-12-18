@@ -1,5 +1,5 @@
-# Onion_Price_analysis
-Onion Price analysis of over time 2012,2017,2016,2019 district  wise.
+# Onion_Price_Analysis
+Onion Price Analysis of over time 2012,2017,2016,2019 district  wise.
 I tried to give aboslute way to give you the grapical view with simple changes.
 
 ## Prerequistes
